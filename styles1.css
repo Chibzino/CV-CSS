@@ -1,0 +1,15 @@
+.body{
+    background-color:  rgb(215, 206, 216);
+}
+.passport{
+    height: 200px;
+}
+p{
+    padding-bottom: 20px;
+}
+.container{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
